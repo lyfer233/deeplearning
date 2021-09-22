@@ -1,3 +1,5 @@
-# deeplearning
-Record every running result and file.
+# 炼丹小结
+记录每一次调参和炼丹~
+
+转载请务必标明来源
 
